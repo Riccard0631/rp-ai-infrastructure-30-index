@@ -106,8 +106,9 @@ export default function IssuerPage() {
           <p className="eyebrow">Available Materials</p>
           <h2>Due diligence starting point</h2>
           <p>
-            Public methodology, components, history, backtest, automation status, API endpoints, draft governance,
-            draft licensing summary, pitch templates, and one-page factsheet are included in the repository.
+            Public methodology, components, history, backtest, automation status, API endpoints, and a factsheet
+            are available for first-pass evaluation. Private pitch emails and negotiation notes should stay outside
+            the public repository.
           </p>
         </article>
       </section>
@@ -116,7 +117,7 @@ export default function IssuerPage() {
         <div className="section-heading">
           <div>
             <p className="eyebrow">Evaluation Package</p>
-            <h2>Files and endpoints to send</h2>
+            <h2>Public links to send</h2>
           </div>
         </div>
         <div className="table-wrap">

@@ -15,7 +15,6 @@ This is not an ETF, fund, advisory service, regulated investment product, or inv
 |-- backtest_history.csv         # Historical simulation output
 |-- backtest_summary.json        # Backtest performance metrics
 |-- data_status.json             # Latest automation run status
-|-- docs/                        # Issuer outreach, governance, licensing, due diligence materials
 |-- public/documents/            # Public downloadable factsheet
 |-- output/pdf/                  # Generated PDF artifacts
 |-- methodology.md               # Public methodology and disclaimer
@@ -168,7 +167,7 @@ The homepage includes:
 - Full components table
 - Methodology and disclaimer links
 
-## Issuer / Partner Package
+## Issuer / Partner Page
 
 The project includes an issuer-facing page:
 
@@ -176,7 +175,7 @@ The project includes an issuer-facing page:
 /issuer
 ```
 
-It is designed for ETF/ETP issuers, index administrators, calculation agents, market-data partners, and research/data distribution partners.
+It is designed as a public overview for ETF/ETP issuers, index administrators, calculation agents, market-data partners, and research/data distribution partners.
 
 Public factsheet:
 
@@ -184,15 +183,7 @@ Public factsheet:
 /documents/RPAI30-factsheet.pdf
 ```
 
-Supporting materials:
-
-- `docs/issuer-one-pager.md`
-- `docs/pitch-email.md`
-- `docs/index-governance.md`
-- `docs/licensing-summary.md`
-- `docs/due-diligence-checklist.md`
-
-Use the issuer page and factsheet for first-contact outreach. The current index remains informational only and is not approved for ETF, ETP, fund, certificate, derivative, financial contract, or other regulated product use without separate written agreement and legal/regulatory/data/index-administration review.
+Use the issuer page and factsheet for first-contact outreach. Keep private outreach emails, licensing notes, and negotiation materials outside the public repository. The current index remains informational only and is not approved for ETF, ETP, fund, certificate, derivative, financial contract, or other regulated product use without separate written agreement and legal/regulatory/data/index-administration review.
 
 ## Deployment
 
