@@ -1,0 +1,31 @@
+ticker,name,sector,weight
+NVDA,NVIDIA Corporation,AI Semiconductors,0.033333333333
+AMD,Advanced Micro Devices Inc.,AI Semiconductors,0.033333333333
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Foundry,0.033333333333
+AVGO,Broadcom Inc.,AI Semiconductors,0.033333333333
+MU,Micron Technology Inc.,Memory,0.033333333333
+ASML,ASML Holding N.V.,Semiconductor Equipment,0.033333333333
+AMAT,Applied Materials Inc.,Semiconductor Equipment,0.033333333333
+LRCX,Lam Research Corporation,Semiconductor Equipment,0.033333333333
+KLAC,KLA Corporation,Semiconductor Equipment,0.033333333333
+SNPS,Synopsys Inc.,EDA Software,0.033333333333
+CDNS,Cadence Design Systems Inc.,EDA Software,0.033333333333
+MRVL,Marvell Technology Inc.,AI Semiconductors,0.033333333333
+MSFT,Microsoft Corporation,Cloud Platforms,0.033333333333
+AMZN,Amazon.com Inc.,Cloud Platforms,0.033333333333
+GOOGL,Alphabet Inc. Class A,Cloud Platforms,0.033333333333
+META,Meta Platforms Inc.,Cloud Platforms,0.033333333333
+ORCL,Oracle Corporation,Cloud Platforms,0.033333333333
+SNOW,Snowflake Inc.,Cloud Data Platforms,0.033333333333
+EQIX,Equinix Inc.,Data Centers,0.033333333333
+DLR,Digital Realty Trust Inc.,Data Centers,0.033333333333
+VRT,Vertiv Holdings Co.,Power and Cooling,0.033333333333
+ANET,Arista Networks Inc.,Networking,0.033333333333
+CSCO,Cisco Systems Inc.,Networking,0.033333333333
+HPE,Hewlett Packard Enterprise Company,Networking and AI Infrastructure,0.033333333333
+DELL,Dell Technologies Inc.,Enterprise Hardware,0.033333333333
+PANW,Palo Alto Networks Inc.,Cybersecurity,0.033333333333
+CRWD,CrowdStrike Holdings Inc.,Cybersecurity,0.033333333333
+NET,Cloudflare Inc.,Edge Cloud and Security,0.033333333333
+DDOG,Datadog Inc.,Observability,0.033333333333
+SBGSY,Schneider Electric SE ADR,Power and Electrical Infrastructure,0.033333333333
