@@ -509,7 +509,7 @@ export default function IndexDashboard({
         </div>
         <div>
           <span>Schedule</span>
-          <strong>Weekdays 22:30 UTC</strong>
+          <strong>Daily 22:30 UTC</strong>
         </div>
         <div>
           <span>Pipeline</span>

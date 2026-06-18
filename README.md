@@ -65,7 +65,7 @@ The repository includes a production automation workflow:
 .github/workflows/update-index-data.yml
 ```
 
-It runs automatically on GitHub Actions every weekday at `22:30 UTC`, after the U.S. market close. It can also be launched manually from the GitHub Actions tab with `workflow_dispatch`.
+It runs automatically on GitHub Actions every day at `22:30 UTC`, after the U.S. market close on trading days. It can also be launched manually from the GitHub Actions tab with `workflow_dispatch`.
 
 The workflow:
 
