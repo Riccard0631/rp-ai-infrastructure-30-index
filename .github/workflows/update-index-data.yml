@@ -38,4 +38,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore(data): update RPAI30 index data"
-          file_pattern: "history.csv backtest_history.csv backtest_summary.json data_status.json"
+          file_pattern: "history.csv backtest_history.csv backtest_summary.json data_status.json output/pdf/RPAI30-factsheet.pdf public/documents/RPAI30-factsheet.pdf"

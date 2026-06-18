@@ -470,6 +470,7 @@ export default function IndexDashboard({
             <span>{meta.type}</span>
           </div>
           <nav aria-label="Primary navigation">
+            <Link href="/issuer">Issuer Brief</Link>
             <Link href="/methodology">Methodology</Link>
             <a href="/api/index">Index API</a>
             <a href="/api/backtest">Backtest API</a>

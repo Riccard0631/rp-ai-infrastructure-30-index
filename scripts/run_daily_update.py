@@ -15,6 +15,7 @@ COMPONENTS_PATH = ROOT / "components.csv"
 HISTORY_PATH = ROOT / "history.csv"
 BACKTEST_HISTORY_PATH = ROOT / "backtest_history.csv"
 BACKTEST_SUMMARY_PATH = ROOT / "backtest_summary.json"
+FACTSHEET_PATH = ROOT / "public" / "documents" / "RPAI30-factsheet.pdf"
 
 
 def run_command(args: list[str]) -> None:
@@ -111,6 +112,16 @@ def main() -> int:
             "backtest_latest_date": backtest_latest["date"],
             "backtest_latest_value": backtest_latest["value"],
             "backtest_observations": int(backtest_summary["observations"]),
+        }
+        write_status(status)
+
+        run_command([sys.executable, "scripts/build_factsheet.py"])
+        if not FACTSHEET_PATH.exists() or FACTSHEET_PATH.stat().st_size <= 0:
+            raise FileNotFoundError("RPAI30 factsheet PDF was not generated")
+
+        status = {
+            **status,
+            "factsheet_path": "public/documents/RPAI30-factsheet.pdf",
         }
         write_status(status)
         print(json.dumps(status, indent=2))
