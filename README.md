@@ -222,3 +222,5 @@ Not a fund.
 Not a regulated investment product.
 
 RP AI Infrastructure 30 Index and ticker RPAI30 are provided for informational and educational purposes only. The index is not intended to be a recommendation to buy, sell, or hold any security. No representation is made that the methodology, data, calculation, or output is complete, accurate, timely, or suitable for any purpose. Users are responsible for their own independent review and should consult qualified professionals before making financial decisions.
+
+Copyright (c) 2026 Riccardo Presti. All rights reserved. RPAI30 and RP AI Infrastructure 30 Index are proprietary index concepts created and maintained by Riccardo Presti. Unauthorized commercial use, replication, licensing, or publication of the index methodology, name, materials, or data package is not permitted without written agreement.

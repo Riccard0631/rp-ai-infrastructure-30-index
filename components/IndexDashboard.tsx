@@ -633,6 +633,12 @@ export default function IndexDashboard({
           This is an informational benchmark only. Not investment advice. Not an ETF. Not a fund. Not a
           regulated investment product.
         </p>
+        <p>
+          Copyright (c) 2026 Riccardo Presti. All rights reserved. RPAI30 and RP AI Infrastructure 30 Index
+          are proprietary index concepts created and maintained by Riccardo Presti. Unauthorized commercial
+          use, replication, licensing, or publication of the index methodology, name, materials, or data
+          package is not permitted without written agreement.
+        </p>
       </section>
     </main>
   );

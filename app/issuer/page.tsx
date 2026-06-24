@@ -210,6 +210,12 @@ export default function IssuerPage() {
           investment products unless separate legal, regulatory, market-data, calculation, and licensing
           arrangements are agreed.
         </p>
+        <p>
+          Copyright (c) 2026 Riccardo Presti. All rights reserved. RPAI30 and RP AI Infrastructure 30 Index
+          are proprietary index concepts created and maintained by Riccardo Presti. Unauthorized commercial
+          use, replication, licensing, or publication of the index methodology, name, materials, or data
+          package is not permitted without written agreement.
+        </p>
       </section>
     </main>
   );

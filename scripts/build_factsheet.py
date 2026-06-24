@@ -225,7 +225,11 @@ def build_factsheet() -> Path:
     status_text = f"Latest data status: {status.get('status', 'n/a')} / generated {generated}"
     disclaimer = (
         "For evaluation only. Not investment advice. Not an ETF. Not a fund. Not a regulated investment product. "
-        "Not intended for use as the basis of financial instruments without separate written agreement and review."
+        "Not intended for use as the basis of financial instruments without separate written agreement and review. "
+        "Copyright (c) 2026 Riccardo Presti. All rights reserved. RPAI30 and RP AI Infrastructure 30 Index are "
+        "proprietary index concepts created and maintained by Riccardo Presti. Unauthorized commercial use, "
+        "replication, licensing, or publication of the index methodology, name, materials, or data package is not "
+        "permitted without written agreement."
     )
     c.setFillColor(MUTED)
     c.setFont("Helvetica", 7)
