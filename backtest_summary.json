@@ -2,12 +2,12 @@
   "name": "RP AI Infrastructure 30 Index",
   "ticker": "RPAI30",
   "start_date": "2020-01-02",
-  "end_date": "2026-07-13",
+  "end_date": "2026-07-14",
   "start_value": 1000.0,
-  "end_value": 9210.54495,
-  "total_return": 8.2105449501,
-  "cagr": 0.4051965894,
-  "annualized_volatility": 0.3138075531,
+  "end_value": 9409.633017,
+  "total_return": 8.4096330166,
+  "cagr": 0.4096050671,
+  "annualized_volatility": 0.3138094117,
   "max_drawdown": -0.4273219563,
-  "observations": 1639
+  "observations": 1640
 }
