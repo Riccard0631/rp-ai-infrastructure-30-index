@@ -4,10 +4,10 @@
   "start_date": "2020-01-02",
   "end_date": "2026-07-17",
   "start_value": 1000.0,
-  "end_value": 8906.784137,
-  "total_return": 7.9067841369,
-  "cagr": 0.3972108947,
-  "annualized_volatility": 0.3138437669,
+  "end_value": 8906.791741,
+  "total_return": 7.9067917406,
+  "cagr": 0.3972110772,
+  "annualized_volatility": 0.313843761,
   "max_drawdown": -0.4273219563,
   "observations": 1643
 }

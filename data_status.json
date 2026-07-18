@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "started_at_utc": "2026-07-17T23:14:11+00:00",
-  "updated_at_utc": "2026-07-17T23:14:18+00:00",
+  "started_at_utc": "2026-07-18T23:24:20+00:00",
+  "updated_at_utc": "2026-07-18T23:24:27+00:00",
   "component_count": 30,
   "index_latest_date": "2026-07-17",
   "index_latest_value": 942.648425,
@@ -9,7 +9,7 @@
   "backtest_start_date": "2020-01-02",
   "backtest_end_date": "2026-07-17",
   "backtest_latest_date": "2026-07-17",
-  "backtest_latest_value": 8906.784137,
+  "backtest_latest_value": 8906.791741,
   "backtest_observations": 1643,
   "factsheet_path": "public/documents/RPAI30-factsheet.pdf"
 }
